@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+poetry.lock
+
+# Distribution / packaging
+.eggs/
+/*.egg
+/*.egg-info
+dist/
+build/
+sdist/
+wheels/
+share/python-wheels/
+*.whl
+*.mo
+*.pot
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/htmlcov/
+.tox/
+.coverage
+.coverage.*
+.benchmarks/
